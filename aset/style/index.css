@@ -1,11 +1,13 @@
 /*  */
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .Logo img {
  width: auto;
- height: 80px;
+ height: 5em;
 }
 
 .Logo {
@@ -26,7 +28,8 @@ body {
 .menu a {
     text-decoration: none;
     color: #EEE0C9;
-    font-size: 20px;
+    font-size: 1rem;
+    
 }
 .menu a:hover {
    text-decoration: underline;
@@ -41,16 +44,20 @@ nav {
 /*  */
 
 
+
 .btn_r {
     margin-top: 20px;
-    background-color: #96B6C5;
+    background-color: #EEE0C9;
     border-radius: 10px;
+    max-width: 7em;
+    width: 100%;
 }
 
 .ip-src {
     background-color: #D9D9D9;
-    height: 68.66px;
-    width: 925px;
+    width: 80% ;
+   
+    
 }
 
 #beranda {
@@ -58,17 +65,23 @@ nav {
 }
 
 .p_1 {
-    padding: 150px 0;
+    padding: 100px 0;
+}
+.cg {
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
 }
 
 #beranda  button {
-    margin: 0 40px;
-    width: 100px;
-    color: #EEE0C9;
+    
+    color: #96B6C5;
 }
 #beranda button:hover {
-   background-color: #EEE0C9;
-   color: #ADC4CE;
+   background-color: #546973;
+   color: #EEE0C9;
    
 }
 
@@ -85,6 +98,10 @@ nav {
 #hero {
     background-color: #F1F0E8;
 }
+#hero img {
+    max-width: 100%;
+    height: auto;
+}
 /*  */
 
 #about .col {
@@ -93,10 +110,9 @@ nav {
 }
 
 #about h1 {
-    width: 100%;
-    max-width: 400px;
+    
     background-color: #D9D9D9;
-    padding: 10px;
+    padding: 10px 30px;
     text-align: center;
     border-radius: 0 20px 0 20px;
     margin: 50px 0;
@@ -111,11 +127,12 @@ nav {
 
 #about h2 {
     width: 100%;
-    margin-bottom: 50px;
+    font-size: 30px;
     color: black;
 }
 #about h5 {
     width: 100%;
+    font-size: 15px;
     color: black;
 }
 
