@@ -2,6 +2,18 @@
     .btn_r {
         display: none;
     }
+
+    .phone {
+        display: none;
+    } 
+
+    .menu_service {
+        gap: 50px;
+    }
+
+    #about .p2 {
+        display: none;
+    }
 }
 
 @media only screen and (max-width: 768px) {
