@@ -19,8 +19,11 @@
     .menu a {
         font-size: 70%;
     }
-     .logo {
+
+     .Logo {
         font-size: 2vw;
+        display: block;
+        text-align: center;
      }
 }
 
