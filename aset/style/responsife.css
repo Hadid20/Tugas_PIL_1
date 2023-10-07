@@ -3,6 +3,8 @@
         display: none;
     }
 
+    
+
     .phone {
         display: none;
     } 
@@ -13,6 +15,10 @@
 
     #about .p2 {
         display: none;
+    }
+
+    .menu a {
+        font-size: 70%;
     }
 }
 
