@@ -80,4 +80,23 @@
         flex-direction: column;
         text-align: center;
     }
+
+    .tb {
+        display: block;
+        margin:50px auto;
+        
+        padding: 100px;
+        border-radius:15px ;
+        color: white;
+        font-size: 20pxs;
+    }
+    
+    .tb button {
+        color: black;
+        padding: 10px;
+        font-size: 10px;
+        border-radius: 10px;
+        margin-top: 10px;
+      
+    }
 }
