@@ -265,6 +265,15 @@ footer li{
     list-style: none;
     margin-top: 10px;
 }
+footer li a{
+    color: black;
+    text-decoration: none;
+}
+footer li a:hover{
+    color: #EEE0C9;
+    transition: 0.2s;
+    
+}
 
 footer li h3 {
     text-decoration: underline;
