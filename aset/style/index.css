@@ -294,3 +294,8 @@ footer .logo-f {
 .logo-f img {
     width: 90px;
 }
+
+.Container {
+    display: none;
+    margin: 0px 50px;
+}
