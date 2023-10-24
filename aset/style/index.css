@@ -308,3 +308,22 @@ footer .logo-f {
 .Container a:hover{
     color: #EEE0C9;
 }
+
+#Testimony{
+    background-color: #546973;
+}
+#Testimony h2{
+    background-color: #EEE0C9;
+    width: fit-content;
+    margin: auto;
+    padding:20px 40px ;
+    border: none;
+    border-radius: 20px 0px 20px 0px ;
+    font-weight: bold;
+    color: #96B6C5;
+}
+
+.T-Color{
+    background-color: #ADC4CE;
+}
+
