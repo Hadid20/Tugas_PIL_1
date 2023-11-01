@@ -312,6 +312,11 @@ footer .logo-f {
 #Testimony{
     background-color: #546973;
 }
+
+
+
+
+
 #Testimony h2{
     background-color: #EEE0C9;
     width: fit-content;
@@ -326,4 +331,12 @@ footer .logo-f {
 .T-Color{
     background-color: #ADC4CE;
 }
+
+.hilang {
+    display: block;
+}
+.hidup {
+    display: none;
+}
+
 
