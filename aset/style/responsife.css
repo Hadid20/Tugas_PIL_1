@@ -90,6 +90,13 @@
         width: 50px;
     }
 
+
+
+
+    .carousel-item p,h5{
+        font-size: small;
+    }
+
 }
 
 @media only screen and (max-width: 768px) {
