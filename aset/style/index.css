@@ -97,15 +97,15 @@ nav {
     justify-content: center;
 }
 
-#beranda  button {
+#beranda button a {
     
     color: #96B6C5;
+    text-decoration: none;
 }
 #beranda button:hover {
-   background-color: #546973;
-   color: #EEE0C9;
-   
+    background-color: #546973;
 }
+
 
 
 
